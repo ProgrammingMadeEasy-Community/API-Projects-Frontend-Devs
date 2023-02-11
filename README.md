@@ -1,6 +1,7 @@
 # API-Projects-Frontend-Devs
-## This Is a random quote generator developed with vanilla javascript by fetching the Game of thrones random quote generator.
-[View Live Demo Here](https://random-qoutes-generator.vercel.app/)
+## This Is a random quote generator developed with vanilla javascript by fetching the Game of thrones random quote API.
+#### When users click on the generate quote button, it generates a new quote.
+[View Live Demo and try it out!](https://random-qoutes-generator.vercel.app/)
 
 
 
